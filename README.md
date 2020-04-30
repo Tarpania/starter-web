@@ -12,4 +12,6 @@ Something something
 
 ## Deployment
 
+More something something
+
 ## How to continue
